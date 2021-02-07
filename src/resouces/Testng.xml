@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Automation" verbose="1" >
+  <test name="Free CRM applicaton test cases" >
+  
+    <classes>
+      <class name="com.crm.qa.test.LoginPageTest"/>
+      <class name="com.crm.qa.test.HomePageTest"/>
+    </classes>
+</test></suite>

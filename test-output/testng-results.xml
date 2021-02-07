@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="154358" started-at="2020-12-07T15:18:32 IST" finished-at="2020-12-07T15:21:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="154358" started-at="2020-12-07T15:18:32 IST" finished-at="2020-12-07T15:21:06 IST">
+      <class name="com.crm.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.test.LoginPageTest@6895a785]" name="setup" is-config="true" duration-ms="153456" started-at="2020-12-07T15:18:32 IST" finished-at="2020-12-07T15:21:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Loginpagetitle()[pri:0, instance:com.crm.qa.test.LoginPageTest@6895a785]" name="Loginpagetitle" duration-ms="39" started-at="2020-12-07T15:21:05 IST" finished-at="2020-12-07T15:21:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginpagetitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.test.LoginPageTest@6895a785]" name="teardown" is-config="true" duration-ms="776" started-at="2020-12-07T15:21:05 IST" finished-at="2020-12-07T15:21:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
